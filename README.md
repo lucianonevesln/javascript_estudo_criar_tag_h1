@@ -15,5 +15,5 @@
 ### Passo 1: inserir palavra
 ![alt text](https://github.com/lucianonevesln/javascript_estudo_criar_tag_h1/blob/main/img0.png)
 
-### Passo 2: a tag h1 criada é inserida no DOM
+### Passo 2: a tag h1 é criada, inserida no DOM e mostrada no front-end
 ![alt text](https://github.com/lucianonevesln/javascript_estudo_criar_tag_h1/blob/main/img1.png)
