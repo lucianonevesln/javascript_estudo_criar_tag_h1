@@ -13,7 +13,7 @@
 ## Imagens da Aplicação:
 
 ### Passo 1: inserir palavra
-![alt text](httpsgithub.comlucianoneveslnjavascript_estudo_criar_tag_h1.git/img0.png)
+![alt text](https://github.com/lucianonevesln/javascript_estudo_criar_tag_h1/blob/main/img0.png)
 
 ### Passo 2: a tag h1 criada é inserida no DOM
-![alt text](httpsgithub.comlucianoneveslnjavascript_estudo_criar_tag_h1.git/img1.png)
+![alt text](https://github.com/lucianonevesln/javascript_estudo_criar_tag_h1/blob/main/img1.png)
